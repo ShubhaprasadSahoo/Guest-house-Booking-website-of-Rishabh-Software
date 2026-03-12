@@ -1,1 +1,1 @@
-This is backend part of node.js which incluse models that contains schemas of mongodb
+This is backend node.js which include models that contains schemas of mongodb,routes,middleware etc.
